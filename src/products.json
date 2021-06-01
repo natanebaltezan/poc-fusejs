@@ -1,0 +1,93 @@
+[
+  {
+    "name": "Geladeira Frost Free 573L",
+    "title": "geladeira-frost-free-573l",
+    "category": "Eletrodomésticos",
+    "brand": "Brastemp",
+    "tags": [
+      "geladeira",
+      "brastemp"
+    ],
+    "store": {
+      "id": 999,
+      "name": "Magalu"
+    },
+    "image": "https://cdn5.colorir.com/desenhos/color/202021/a-geladeira-a-casa-a-cozinha-1583245.jpg"
+  },
+  {
+    "name": "Teclado Mecânico Gamer",
+    "title": "teclado-mecanico-gamer",
+    "category": "Eletrônicos",
+    "brand": "Hoopson",
+    "tags": [
+      "teclado",
+      "gamer",
+      "homeoffice"
+    ],
+    "store": {
+      "id": 123,
+      "name": "Amazon"
+    },
+    "image": "https://ae01.alicdn.com/kf/HTB102XlQpXXXXaGXFXXq6xXFXXXb/Projeto-keycap-teclado-Dos-Desenhos-Animados-das-crian-as-com-Grandes-e-coloridos-cabo-USB-teclado.jpg_Q90.jpg_.webp"
+  },
+  {
+    "name": "Camiseta Amanheci Cansada",
+    "title": "camiseta-amanheci-cansada",
+    "category": "Vestuário",
+    "brand": "",
+    "tags": [],
+    "store": {
+      "id": 888,
+      "name": "Chico Rei"
+    },
+    "image": "https://moldura-pop.s3.sa-east-1.amazonaws.com/imagens-proprietarias/99938240-NdTDAzfGVV3kH0LYu98kDWz5-QQifC5s-cropped-2x3-browser.png"
+  },
+  {
+    "name": "Cacho bananas",
+    "title": "cacho-bananas",
+    "category": "Alimentação",
+    "brand": "",
+    "tags": ["frutas", "alimentação"],
+    "store": {
+      "id": 45,
+      "name": "Zaffari"
+    },
+    "image": "https://graphicriver.img.customer.envatousercontent.com/files/202716717/Cartoon%20Bananas.jpg?auto=compress%2Cformat&q=80&fit=crop&crop=top&max-h=8000&max-w=590&s=7ee88efdfeca0e5171898ad478106d30"
+  },
+  {
+    "name": "Cachaça de banana",
+    "title": "cachaca-bananas",
+    "category": "Bebidas",
+    "brand": "",
+    "tags": [],
+    "store": {
+      "id": 45,
+      "name": "Zaffari"
+    },
+    "image": "https://gartic.com.br/imgs/mural/pu/punker/cachaca.png"
+  },
+  {
+    "name": "Cachorro quente",
+    "title": "cachorro-quente",
+    "category": "Alimentação",
+    "brand": "",
+    "tags": ["hotdog", "hot-dog"],
+    "store": {
+      "id": 45,
+      "name": "Zaffari"
+    },
+    "image": "https://gartic.com.br/imgs/mural/li/lidyeba/cachorro-quente.png"
+  },
+  {
+    "name": "Smart TV 4K",
+    "title": "smart-tv-4k",
+    "category": "Eletrônicos",
+    "brand": "LG",
+    "tags": ["televisão", "tv", "borda infinita"],
+    "store": {
+      "id": 456,
+      "name": "Extra"
+    },
+    "image": "https://dbdzm869oupei.cloudfront.net/img/sticker/preview/9215.png"
+  }
+]
