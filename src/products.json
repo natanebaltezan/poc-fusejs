@@ -89,5 +89,17 @@
       "name": "Extra"
     },
     "image": "https://dbdzm869oupei.cloudfront.net/img/sticker/preview/9215.png"
+  },
+  {
+    "name": "Allstar amarelo tamanho 36",
+    "title": "tenis",
+    "category": "Calçados",
+    "brand": "Converse",
+    "tags": ["all-star", "tenis"],
+    "store": {
+      "id": 4345,
+      "name": "Converse"
+    },
+    "image": "https://gartic.com.br/imgs/mural/ch/chapado567/all-star.png"
   }
 ]

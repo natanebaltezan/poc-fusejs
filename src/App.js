@@ -8,10 +8,13 @@ function App() {
 
   const fuse = new Fuse(products, {
     keys: [
-      'name'
+      'name',
+      'tags'
     ],
     includeScore: true,
-    minMatchCharLength: 2
+    minMatchCharLength: 4,
+    includeMatches: true,
+    isCaseSensitive: false
   });
 
   const results = fuse.search(query);
