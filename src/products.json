@@ -83,7 +83,7 @@
     "title": "smart-tv-4k",
     "category": "Eletrônicos",
     "brand": "LG",
-    "tags": ["televisão", "tv", "borda infinita"],
+    "tags": ["televisão", "tv", "borda infinita", "tevelisão"],
     "store": {
       "id": 456,
       "name": "Extra"
@@ -91,7 +91,7 @@
     "image": "https://dbdzm869oupei.cloudfront.net/img/sticker/preview/9215.png"
   },
   {
-    "name": "Allstar amarelo tamanho 36",
+    "name": "Allstar amarelo tamanho 36 continua a executar a função mesmo que encontre um match perfeito",
     "title": "tenis",
     "category": "Calçados",
     "brand": "Converse",
